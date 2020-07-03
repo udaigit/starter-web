@@ -5,7 +5,7 @@
 
     Udai Kumar 
     udaikudikyala@gmail.com
-    KMIT
+    KMIT, Professor
 
 # THANKS
 
@@ -15,3 +15,5 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Machine Learning, AWS, Google cloud
+    jQuery, Modernizr, AJAX
+    Docker, Java
