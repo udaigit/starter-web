@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Udai Kumar <role> -- <twitter>
+    Udai Kumar 
+    udaikudikyala@gmail.com
+    KMIT
 
 # THANKS
 
