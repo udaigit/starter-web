@@ -7,3 +7,9 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 This is popular course on Udemy
+## Git comparisons
+This is a training course for DevOps.
+##Git GitHub Training
+Adding Git comparison training  module.
+## GitHub context
+comparison or repository with working directory.
