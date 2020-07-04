@@ -12,6 +12,7 @@ This is a training course for DevOps.
 ## Contribution 
 For the repositor and raise pull request.
 ##Git GitHub Training
+Adding GIT rebase lectures in Git advance.
 Adding Git comparison training  module.
 ## GitHub context
 comparison or repository with working directory.
