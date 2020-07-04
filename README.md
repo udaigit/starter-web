@@ -18,3 +18,4 @@ We have done so much of work together.
 A lot of lectures are coming up.
 ## GitHub context
 comparison or repository with working directory.
+Adding new lectures of stash.
