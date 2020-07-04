@@ -3,6 +3,7 @@
   Hi, I am modifying the file before rebase.
   doing some changes in local.
   Hi, going to insert conflicts in my feature branch.
+  Adding important notes of git stash.
 
 # TEAM
 
