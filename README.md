@@ -14,5 +14,6 @@ For the repositor and raise pull request.
 ##Git GitHub Training
 Adding GIT rebase lectures in Git advance.
 Adding Git comparison training  module.
+We have done so much of work together.
 ## GitHub context
 comparison or repository with working directory.
