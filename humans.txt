@@ -22,3 +22,4 @@
     jQuery, Modernizr, Machine Learning, AWS, Google cloud
     jQuery, Modernizr, AJAX
     Docker, Java
+    AWS Solution architect 
